@@ -1,5 +1,7 @@
 # git-hacks
 
+## .gitconfig
+
 ``` 
 [user]
     name = Janos Gyerik
