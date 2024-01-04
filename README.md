@@ -1,6 +1,7 @@
 # git-hacks
 
-``` [user]
+``` 
+[user]
     name = Janos Gyerik
     email = info@janosgyerik.com
 
@@ -112,4 +113,6 @@
     insteadOf = "gist:"
 
 [push]
-    default = matching ```
+    default = matching 
+
+```
